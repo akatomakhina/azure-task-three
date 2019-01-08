@@ -1,0 +1,17 @@
+C:\Users\Anastasiya_Katamakhi\Source\Repos\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\bin\Debug\ProductProjectAzure.DataAccess.Common.dll
+C:\Users\Anastasiya_Katamakhi\Source\Repos\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\bin\Debug\ProductProjectAzure.DataAccess.Common.pdb
+C:\Users\Anastasiya_Katamakhi\Source\Repos\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.csprojAssemblyReference.cache
+C:\Users\Anastasiya_Katamakhi\Source\Repos\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiya_Katamakhi\Source\Repos\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.dll
+C:\Users\Anastasiya_Katamakhi\Source\Repos\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.pdb
+C:\AZURETASKTHREE\azure-task3\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\bin\Debug\ProductProjectAzure.DataAccess.Common.dll
+C:\AZURETASKTHREE\azure-task3\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\bin\Debug\ProductProjectAzure.DataAccess.Common.pdb
+C:\AZURETASKTHREE\azure-task3\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.csproj.CoreCompileInputs.cache
+C:\AZURETASKTHREE\azure-task3\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.dll
+C:\AZURETASKTHREE\azure-task3\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.pdb
+C:\AZURETASKTHREE\azure-task-three\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\bin\Debug\ProductProjectAzure.DataAccess.Common.dll
+C:\AZURETASKTHREE\azure-task-three\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\bin\Debug\ProductProjectAzure.DataAccess.Common.pdb
+C:\AZURETASKTHREE\azure-task-three\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.csprojAssemblyReference.cache
+C:\AZURETASKTHREE\azure-task-three\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.csproj.CoreCompileInputs.cache
+C:\AZURETASKTHREE\azure-task-three\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.dll
+C:\AZURETASKTHREE\azure-task-three\ProductProjectAzure\ProductProjectAzure.DataAccess.Common\obj\Debug\ProductProjectAzure.DataAccess.Common.pdb
